@@ -66,7 +66,6 @@
 
 <body>
     <div class="container">
-        <img src="RCC.png" alt="home icon" width="150" height="150" class="center">
         <h1>Welcome to the Academic Information Management System</h1>
         <p>Please select an option:</p>
         <ul>
